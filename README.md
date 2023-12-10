@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buraktnv&label=Profile%20views&color=0e75b6&style=flat" alt="buraktnv" /> </p>
 
-- 🔭 I’m currently working on **python projects**
+- 🔭 I’m currently working on **personal projects**
 
 - 🌱 I’m currently learning **Jest, OpenCV, Tesnerflow, Go, .NET**
 
