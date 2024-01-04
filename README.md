@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **buraktnv@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11JWesOEbcJcci75UzJCg7K6aU8rzTQl7/view?usp=sharing](https://drive.google.com/file/d/11JWesOEbcJcci75UzJCg7K6aU8rzTQl7/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/11JWesOEbcJcci75UzJCg7K6aU8rzTQl7/view?usp=sharing"> Here </a>
 
 - ⚡ Fun fact **I love animes.**
 
